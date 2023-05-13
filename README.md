@@ -3,4 +3,3 @@
 
 <img src="/output.png">
 
-![image description](Screenshot(7).png)
